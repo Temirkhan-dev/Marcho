@@ -36,6 +36,7 @@ ul[class] {
   list-style: none;
 }
 
+
 img {
   max-width: 100%;
   display: block;
@@ -46,4 +47,8 @@ button,
 textarea,
 select {
   font: inherit;
+}
+
+a {
+  text-decoration: none;
 }
