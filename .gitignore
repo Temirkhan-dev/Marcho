@@ -7,4 +7,4 @@ dist/
 node_modules/
 npm-debug.*
 package-log.json
-src/assets/css*
+src/assets/css/*
